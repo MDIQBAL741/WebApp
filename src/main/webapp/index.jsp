@@ -1,12 +1,25 @@
+
 <html>
+<head>
+    <title>Company Information</title>
+</head>
 <body>
-<h2>Hello World!</h2><h3>Welcome to Jenkins<h3>
-<h1>Working with Git/Github</h1>
-<h2>Working wiht Jenkins, & Tomcat</h2>
-<h3> Working wiht Docker host...</h3>
-<h4> working with ansible ans pushing the imges to dockerhub</h4>
-<h4>Automating the CICD using Jenkins job</h4>
-<h1>completed the CICD Pipeline training..</h1>
-<h2> Happy Learning!</h2>
+    <h1>Company Name</h1>
+    <h2>Company Overview</h2>
+    <p>Company overview goes here...</p>
+
+    <h2>Mission Statement</h2>
+    <p>Mission statement goes here...</p>
+
+    <h2>Contact Information</h2>
+    <p><strong>Address:</strong> <span>Address goes here...</span></p>
+    <p><strong>Phone:</strong> <span>Phone number goes here...</span></p>
+    <p><strong>Email:</strong> <span>Email goes here...</span></p>
+
+    <h2>Key Personnel</h2>
+    <ul>
+        <li>Key personnel info goes here...</li>
+    </ul>
 </body>
 </html>
+
